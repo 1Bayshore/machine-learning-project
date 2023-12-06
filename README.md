@@ -12,4 +12,4 @@ To run our .ipynb file, please download the dataset (heart_2020_cleaned.csv in o
 
 Yours Truly,
 
-The Cardiologists
+The Cardiologists.
